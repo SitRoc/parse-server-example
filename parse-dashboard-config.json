@@ -3,16 +3,8 @@
     {
       "serverURL": "https://sprig-backend.herokuapp.com/parse",
       "appId": "1234TweedReadingApp",
-      "javascriptKey": "myJavascriptKey",
       "restKey": "myRestKey",
-      "appName": "Tweed",
-      "production": true
-    },
-    {
-      "serverURL": "http://localhost:1337/parse",
-      "appId": "1234TweedReadingApp",
-      "masterKey": "1234TweedReadingAppss",
-      "appName": "My Parse Server App"
+      "appName": "Tweed"
     }
   ],
   "users": [
