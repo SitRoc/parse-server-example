@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "serverURL": "https://sprig-backend.herokuapp.com/",
+      "serverURL": "http://sprig-backend.herokuapp.com/",
       "appId": "1234TweedReadingApp",
       "javascriptKey": "myJavascriptKey",
       "restKey": "myRestKey",
