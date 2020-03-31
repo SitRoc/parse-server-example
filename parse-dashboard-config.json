@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "serverURL": "https://sprig-backend.herokuapp.com/", // For an app still hosted on Parse.com
+      "serverURL": "https://sprig-backend.herokuapp.com/",
       "appId": "1234TweedReadingApp",
       "javascriptKey": "myJavascriptKey",
       "restKey": "myRestKey",
@@ -18,7 +18,7 @@
   "users": [
     {
       "user":"user1",
-      "pass":"pass" // change this to something secure
+      "pass":"pass"
     }
   ]
 }
