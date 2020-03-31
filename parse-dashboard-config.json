@@ -6,7 +6,7 @@
       "javascriptKey": "myJavascriptKey",
       "restKey": "myRestKey",
       "appName": "Tweed",
-      "production": true
+      "production": false
     },
     {
       "serverURL": "http://localhost:1337/",
